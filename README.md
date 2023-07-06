@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krishnendu C
+- 👋 Hi, I’m Krishnendu C
 - 🌱 I’m currently learning Btech Data Science
 
 <!---
