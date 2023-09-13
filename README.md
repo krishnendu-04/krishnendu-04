@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Krishnendu C
-- 🌱 I’m currently learning Btech Data Science
+- Hi, I’m Krishnendu 
+- I'm currently learning web development👩🏼‍💻
 
 <!---
 krishnendu-04/krishnendu-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
