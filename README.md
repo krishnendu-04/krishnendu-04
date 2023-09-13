@@ -1,4 +1,5 @@
-- Hi, I’m Krishnendu 
+- Hi, I’m Krishnendu
+- Datascience Student
 - I'm currently learning web development👩🏼‍💻
 
 <!---
