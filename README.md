@@ -5,8 +5,6 @@
 Passionate about analytics, machine learning & real-world problem solving, constantly learning by building projects.
 
 
----
-
 ## 👩‍💻 About Me
 
 I’m a Data Science student with hands-on experience in building **data-driven and ML-powered applications**. I enjoy working across the full lifecycle of a project — from data collection and cleaning to analysis, modeling, and visualization.
@@ -14,7 +12,6 @@ I’m a Data Science student with hands-on experience in building **data-driven 
 I’ve worked on projects involving **analytics dashboards, predictive modeling, web-based ML systems**.
 Alongside tech, I actively lead and organize events as part of IEEE, which has strengthened my **leadership, coordination, and communication skills**.
 
----
 
 ## 🔧 Technical Skills
 
@@ -36,7 +33,7 @@ Alongside tech, I actively lead and organize events as part of IEEE, which has s
 * Git & GitHub
 * Basic Cloud & Deployment Workflows
 
----
+
 
 ## 📌 Featured Project
 
@@ -48,7 +45,7 @@ Alongside tech, I actively lead and organize events as part of IEEE, which has s
 
 *(More projects available in repositories 👇)*
 
----
+
 
 ## 🏆 Leadership & Experience
 
@@ -56,7 +53,7 @@ Alongside tech, I actively lead and organize events as part of IEEE, which has s
 * Organizing and coordinating multiple technical and non-technical events
 * Experience working with cross-functional teams
 
----
+
 
 ## 🌱 Currently Learning
 
@@ -65,6 +62,6 @@ Alongside tech, I actively lead and organize events as part of IEEE, which has s
 * LLMs & Agentic AI systems
 * Placement-focused problem solving & aptitude
 
----
+
 
 ✨ *I believe in learning by doing and building solutions that make data meaningful.*
