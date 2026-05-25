@@ -41,8 +41,7 @@ Selected among peers to present findings to the internal Infosys team.
 ---
 
 ### 🔹 Airscapes — Air Quality Prediction Web App
-ML-based web app predicting air quality using real-time government API data.
-Deployed full-stack with Vercel (frontend) and Render (backend).
+ML-based web app predicting air quality using real-time government API data.Build the Frontend and deployed full-stack with Vercel (frontend) and Render (backend).
 
 `Flask` `Scikit-learn` `Firebase` `Vercel` `Render`
 
