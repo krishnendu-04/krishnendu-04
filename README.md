@@ -1,75 +1,85 @@
-# Hi, I’m Krishnendu 
+# Hi, I'm Krishnendu C 👋
 
-🎓 **Final-year Data Science student** | 👩‍💼 **Chairperson, IEEE SSET Student Branch**
+**Building AI/ML systems** | BTech Data Science | Ex-Infosys Springboard Intern | Ex - IEEE Chair SSET SB
 
-Passionate about analytics, machine learning & real-world problem solving, constantly learning by building projects.
-
----
-
-
-## 👩‍💻 About Me
-
-I’m a Data Science student with hands-on experience in building **data-driven and ML-powered applications**. I enjoy working across the full lifecycle of a project — from data collection and cleaning to analysis, modeling, and visualization.
-
-I’ve worked on projects involving **analytics dashboards, predictive modeling, web-based ML systems**.
-Alongside tech, I actively lead and organize events as part of IEEE, which has strengthened my **leadership, coordination, and communication skills**.
+I learn by building. Currently working through a structured roadmap to go from data science to production-ready AI/ML engineering — shipping real projects, not just notebooks.
 
 ---
 
+## 🚀 What I'm Building
 
-## 🔧 Technical Skills
-
-**Languages & Tools**
-
-* Python, SQL, R
-* Pandas, NumPy, Matplotlib
-* Flask, HTML, CSS
-
-**Data & Analytics**
-
-* Data Cleaning & EDA
-* KPI Analysis & Reporting
-* Dashboard Development (Power BI)
-
-
-**Other**
-
-* Git & GitHub
-* Basic Cloud & Deployment Workflows
-
+| Project | Stack | Status |
+|---------|-------|--------|
+| 🌿 Climate Risk Dashboard | Python · Pandas · Plotly · Streamlit | 🔨 In Progress |
+<!---| 💳 Loan Default Prediction API | Scikit-learn · XGBoost · FastAPI · Docker | 📅 Month 3 |
+| 🏥 Medical RAG Chatbot | LangChain · FAISS · Gemini API · Streamlit | 📅 Month 5 |-->
 
 ---
 
+## 🛠️ Tech Stack
 
-## 📌 Featured Project
-
-### 🔹 Air Quality Prediction Web Application
-
-* Developed an ML-based system to predict and monitor air quality
-* Integrated real-time government API data
-* Built and deployed a full-stack web application using Flask
-
-*(More projects available in repositories )*
-
----
-
-## 🏆 Leadership & Experience
-
-* Chairperson, IEEE SSET Student Branch
-* Organizing and coordinating multiple technical and non-technical events
-* Experience working with cross-functional teams
-
+```
+Languages     Python · SQL
+ML & Data     Scikit-learn · Pandas · NumPy · Matplotlib · XGBoost
+Deployment    FastAPI · Docker · Streamlit · Render
+Analytics     Power BI · EDA · DAX · Star Schema
+Tools         Git · GitHub · MLflow · Jupyter
+GenAI         LangChain · FAISS · RAG (learning)
+```
 
 ---
 
-## 🌱 Currently Learning
+## 📂 Featured Projects
 
-* Advanced Machine Learning
-* Power BI portfolio projects
-* LLMs & Agentic AI systems
-* Placement-focused problem solving & aptitude
+### 🔹 Supportlytics — IT Support Performance Analytics
+Analyzed IT support ticket data to surface resolution bottlenecks and KPI trends.
+Built an interactive Power BI dashboard with DAX-based KPIs and Star Schema modeling.
+Selected among peers to present findings to the internal Infosys team.
 
+`Python` `Pandas` `Power BI` `DAX` `ETL`
 
 ---
 
-✨ *I believe in learning by doing and building solutions that make data meaningful.*
+### 🔹 Airscapes — Air Quality Prediction Web App
+ML-based web app predicting air quality using real-time government API data.
+Deployed full-stack with Vercel (frontend) and Render (backend).
+
+`Flask` `Scikit-learn` `Firebase` `Vercel` `Render`
+
+---
+
+### 🔹 Communo — OTT Churn Prediction Platform
+CNN model for customer churn prediction using DNA Computing techniques.
+Pipeline generates business strategies, identifies churn drivers, and estimates revenue impact.
+
+`Python` `TensorFlow/Keras` `CNN` `Scikit-learn`
+
+---
+
+## 📈 Currently Learning
+
+- 🟠 Full Stack AI Engineer — Udemy
+- 🔵 ML Specialization — Andrew Ng (Coursera)
+- 🔴 LeetCode — daily problem solving (Arrays → HashMaps → Two Pointers)
+- 🟢 FastAPI · Docker · MLflow · LangChain · RAG
+
+---
+
+## 🏆 Leadership
+
+**Chair, IEEE SSET Student Branch** (2025–26)
+Led a 20+ member team organizing technical and professional development events at scale.
+
+**Secretary, IEEE Computer Society SSET** (2024–25)
+Coordinated Ascendio 7.0, CodeQuest, Python Bootcamp, IEEE Xtreme, and more.
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnendu04-blue?style=flat&logo=linkedin)](https://linkedin.com/in/krishnendu04)
+[![Email](https://img.shields.io/badge/Email-krishnenduchariyil@gmail.com-red?style=flat&logo=gmail)](mailto:krishnenduchariyil@gmail.com)
+
+---
+
+*Open to AI/ML Engineer and Data roles. Currently building in public — follow along.*
