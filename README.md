@@ -6,12 +6,12 @@ I learn by building. Currently working through a structured roadmap to go from d
 
 ---
 
-## 🚀 What I'm Building
+<!---## 🚀 What I'm Building
 
 | Project | Stack | Status |
 |---------|-------|--------|
 | 🌿 Climate Risk Dashboard | Python · Pandas · Plotly · Streamlit | 🔨 In Progress |
-<!---| 💳 Loan Default Prediction API | Scikit-learn · XGBoost · FastAPI · Docker | 📅 Month 3 |
+| 💳 Loan Default Prediction API | Scikit-learn · XGBoost · FastAPI · Docker | 📅 Month 3 |
 | 🏥 Medical RAG Chatbot | LangChain · FAISS · Gemini API · Streamlit | 📅 Month 5 |-->
 
 ---
