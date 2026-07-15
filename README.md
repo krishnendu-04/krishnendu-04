@@ -20,11 +20,11 @@ I learn by building. Currently working through a structured roadmap to go from d
 
 ```
 Languages     Python · SQL
-ML & Data     <!---Scikit-learn ·--> Pandas · NumPy · Matplotlib 
-<!---Deployment    FastAPI · Docker · Streamlit · Render-->
+ML & Data     Pandas · NumPy · Matplotlib 
+Deployment    Render
 Analytics     Power BI · EDA · DAX · Star Schema
-Tools         Git · GitHub · <!---MLflow ·--> Jupyter
-<!---GenAI         LangChain · RAG (learning)-->
+Tools         Git · GitHub · Jupyter
+GenAI         LangChain · RAG (learning)
 ```
 
 ---
@@ -57,10 +57,7 @@ Pipeline generates business strategies, identifies churn drivers, and estimates 
 
 ## 📈 Currently Learning
 
-- 🟠 Full Stack AI Engineer — Udemy
-- 🔵 ML Specialization — Andrew Ng (Coursera)
-- 🔴 LeetCode — daily problem solving (Arrays → HashMaps → Two Pointers)
-- 🟢 FastAPI · Docker · MLflow · LangChain · RAG
+- Data Science
 
 ---
 
